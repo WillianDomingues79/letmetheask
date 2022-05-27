@@ -1,3 +1,5 @@
+# Salas de conversas utilizando React.JS integrado ao Firebase com sistema de autenticação Google
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
